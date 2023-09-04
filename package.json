@@ -49,9 +49,5 @@
     "gh-pages": "^5.0.0",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"
-  },
-  "description": "ChatGPT built almost the whole website as I started to question my existence. This website contains random stuff I put on the internet.",
-  "main": "postcss.config.js",
-  "author": "",
-  "license": "ISC"
+  }
 }
