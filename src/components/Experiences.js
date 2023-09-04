@@ -2,7 +2,7 @@ import React from 'react';
 import UmichImage from '../assets/images/umich.png';
 import UmichCSCARImage from '../assets/images/umich-cscar.png';
 import TDRIImage from '../assets/images/tdri.png';
-import KrungThaiImage from '../assets/images/krungthai.png';
+import KrungThaiImage from '../assets/images/krungthai.jpeg';
 
 const experiences = [
   {
