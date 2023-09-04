@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d3dd188.css",
+    "main.js": "/static/js/main.49189d37.js",
+    "static/js/787.10a9a636.chunk.js": "/static/js/787.10a9a636.chunk.js",
+    "static/media/uw-madison-tsa.png": "/static/media/uw-madison-tsa.7262189ea97f7dacbd76.png",
+    "static/media/umich.png": "/static/media/umich.ab94f5903d266a3a45f9.png",
+    "static/media/chimtanoo_resume_2023.pdf": "/static/media/chimtanoo_resume_2023.c890a8458de630d95329.pdf",
+    "static/media/profile-image.jpg": "/static/media/profile-image.2c5b8673c75a9d255256.jpg",
+    "static/media/uw-madison.png": "/static/media/uw-madison.3b63ed66903daa2eeee8.png",
+    "static/media/krungthai.jpeg": "/static/media/krungthai.602839419bd13a01dfec.jpeg",
+    "index.html": "/index.html",
+    "main.2d3dd188.css.map": "/static/css/main.2d3dd188.css.map",
+    "main.49189d37.js.map": "/static/js/main.49189d37.js.map",
+    "787.10a9a636.chunk.js.map": "/static/js/787.10a9a636.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d3dd188.css",
+    "static/js/main.49189d37.js"
+  ]
+}
